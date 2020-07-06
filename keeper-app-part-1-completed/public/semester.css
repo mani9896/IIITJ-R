@@ -1,0 +1,23 @@
+
+h2
+{
+  background: #3DCFCF;
+border: 1px solid #707070;
+border-radius: 36px;
+top: 8000px;
+left: 179px;
+width: 202px;
+height: 202px;
+}
+
+.semester{
+  font-size: 4rem;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  align-content: center;
+  padding-top: 50px;
+  color: white;
+}
+
+
